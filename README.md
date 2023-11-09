@@ -1,0 +1,14 @@
+# Bulgari web scraped data 
+
+## About the website
+
+**Bulgari** is a renowned Italian luxury brand known for its opulent jewelry, watches, fragrances, accessories and leather goods. Established in 1884 in Rome by Silvo Bulgari, the brand is a testament to Italian design and craftsmanship. Synonymous with excellence and high-end luxury, Bulgari is owned by the French conglomerate **LVMH Moet Hennessy Louis Vuitton SE** since 2011 and is publicly traded on the Euronext Paris under the ticker symbol MC. The brand operates boutiques and retail outlets globally that revel in opulence and grandeur. For more information about Bulgari and its rich history can be found on their [Wikipedia](https://en.wikipedia.org/wiki/Bulgari) page. An in-depth review of their financial information, stock market performance and company news can be accessed on their [Bloomberg](https://www.bloomberg.com/profile/company/BUL:FP) page.
+ 
+Bulgaris main competitors include other prominent luxury brands such as **Cartier**, **Tiffany & Co.**, and **Chopard**. Cartier, owned by the Swiss Richemont Group, is known for its exquisite jewelry and timepieces. More detailed information about Cartier can be found on their [Wikipedia](https://en.wikipedia.org/wiki/Cartier_(jeweller)) page and [Bloomberg](https://www.bloomberg.com/profile/company/CART:SW) page. Renowned American jewelers, Tiffany & Co., is recognized for its diamond and sterling silver jewelry. Their company details can be found on their [Wikipedia](https://en.wikipedia.org/wiki/Tiffany_%26_Co.) page and [Bloomberg](https://www.bloomberg.com/profile/company/TIF:US) page. Chopard, a Swiss-based luxury watch, jewelry, and accessories company, is another major competitor. Information can be reviewed on their [Wikipedia](https://en.wikipedia.org/wiki/Chopard) page and [Bloomberg](https://www.bloomberg.com/profile/company/CHOPZ:SW) page.
+
+The use of web scraped data from the Bulgari website holds immense potential for financial analysis, market research, price monitoring and competitive analysis. Factual data such as **prices, product availability, customer reviews**, and **discounts** can be used to track market trends, monitor competition, and analyze customer sentiment. For instance, fluctuations in prices of specific items can be monitored to assess seasonal pricing trends or to identify discount strategies. Customer reviews could serve as an insight into customer satisfaction and product quality. Moreover, real-time tracking of product availability could provide insights into supply chain efficiency and demand trends. Web scraped data, therefore, serves as a valuable tool for data-driven decision making and strategic planning.
+
+
+## Link to **dataset**
+
+[Bulgari dataset](https://www.databoutique.com/buy-data-list-subset/Bulgari%20web%20scraped%20data/r/rec4Qzsgzqg8kblTs)
